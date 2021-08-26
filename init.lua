@@ -1,8 +1,3 @@
-require 'com'
-mod(0)
-
---ent(180, "main3D.lua", 0.5, 0,0,0, 0, 1,0)
-
 for i = 0, 70 do
 	local v = V(rnd(-5,5),rnd(-5,5),rnd(-5,5))
 	v = norm(v);
